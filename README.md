@@ -18,17 +18,17 @@ cd hello-script
 - Run the script
 
 ```
-bash hello
-bash hello alvaro
+bash hello.sh
+bash hello.sh alvaro
 ```
 
 ## Sample output
 
 ```
-bash hello
+bash hello.sh
 hello
 
-bash hello alvaro
+bash hello.sh alvaro
 hello alvaro
 ```
 
