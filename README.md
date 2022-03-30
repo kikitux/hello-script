@@ -22,9 +22,21 @@ bash hello
 bash hello alvaro
 ```
 
+## Sample output
+
+```
+bash hello
+hello
+
+bash hello alvaro
+hello alvaro
+```
+
 ## TODO
-- [ ] add script
+
 
 ## DONE
 - [x] write how to use this repo
 - [x] update this readme
+- [x] add script
+- [x] sample output
